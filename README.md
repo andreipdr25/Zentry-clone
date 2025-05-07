@@ -6,14 +6,10 @@ cd project-name
 
 2. Install dependencies
 bash
-Copiază
-Editează
 npm install
 
 3. Start the development server
 bash
-Copiază
-Editează
 npm run dev
 
 The app will be available at: http://localhost:5173/
